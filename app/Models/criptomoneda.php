@@ -8,7 +8,7 @@ use Illuminate\Database\Eloquent\Model;
 class criptomoneda extends Model
 {
     use HasFactory;
-    protected $table='criptomoneda';
+    protected $table='criptomenda';
     public $timestamps=false;
 
 }
